@@ -15,20 +15,27 @@ guidelines below.
 
 ## Formatting Guidelines
 
- - Keep the information to essential: do not add abstracts, do not add a
-   publisher field into articles entries, use only the initials for first
-   names.
+ - Keep the information to essential: do not add abstracts, do not add
+   a publisher field into articles entries, do not add DOI or external
+   links unless they are strictly necessary to locate the referenced
+   material.
 
- - All words of titles are capitalized, excluding stop words such as: of,
-   the, in at, etc.
+ - All words in titles are capitalized, excluding stop words such as:
+   of, the, in at, etc. For example:
+   
+   `title = {The Beauty of Science: Theory and Applications},`
 
- - The author field should be formatted as follows:
+ - Use only the initials for first names. The author field should be
+   formatted as follows:
 
    `author = { Lastname1, Initials1 and Lastname2, Initials2 },`
 
  - Entry labels should include the last name of the first author in full,
    one or more keywords identifying the content of the work, and the year
-   of publication. Underscore is used to separate words.
+   of publication. Underscore is used to separate words. Example:
+   
+   `@article{balietti_fragmentation_2015,`
+
 
 
 ## License
