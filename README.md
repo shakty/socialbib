@@ -31,7 +31,7 @@ guidelines below.
  - Use only the initials for first names. The author field should be
    formatted as follows:
 
-   `author = {Lastname1, Initials1 and Lastname2, Initials2 },`
+   `author = {Lastname1, Initials1 and Lastname2, Initials2},`
 
  - Entry labels should include the last name of the first author in
    full, one or more keywords identifying the content of the work, and
