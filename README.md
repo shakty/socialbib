@@ -30,9 +30,10 @@ guidelines below.
 
    `author = { Lastname1, Initials1 and Lastname2, Initials2 },`
 
- - Entry labels should include the last name of the first author in full,
-   one or more keywords identifying the content of the work, and the year
-   of publication. Underscore is used to separate words. Example:
+ - Entry labels should include the last name of the first author in
+   full, one or more keywords identifying the content of the work, and
+   the year of publication. Underscore is used to separate
+   words. Everything should be lowercase. Example:
    
    `@article{balietti_fragmentation_2015,`
 
