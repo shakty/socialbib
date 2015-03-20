@@ -40,7 +40,8 @@ guidelines below.
    
    `@article{balietti_fragmentation_2015,`
 
-
+ - Online entries should be registered as `@misc` and added at the end
+   of the file.
 
 ## License
 
