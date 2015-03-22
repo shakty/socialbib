@@ -1,4 +1,4 @@
-# SOCIALBIB v.0.5.0
+# SOCIALBIB v.0.6.0
 
 Collection of bibtex files maintained by Stefano Balietti.
 
